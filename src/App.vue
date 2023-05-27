@@ -1,12 +1,11 @@
 <template>
-  <div></div>
+  <div>
+    <h1>我新增标题123312321312312</h1>
+  </div>
 </template>
-<script setup lang='ts'>
-for (let i = 0; i < 100; i++)
-
-{
-  console.log(i);
-  
+<script setup lang="ts">
+for (let i = 0; i < 100; i++) {
+  console.log(i)
 }
 </script>
-<style scoped lang='scss'></style>
+<style scoped lang="scss"></style>
