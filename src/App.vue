@@ -1,17 +1,12 @@
 <template>
-  <div class="box">我是APP根组件</div>
+  <div></div>
 </template>
-<script setup lang="ts">
-const str = '我爱你罪'
-</script>
-<style scoped lang="scss">
-.box {
-  width: 800px;
-  height: 400px;
-  background: red;
+<script setup lang='ts'>
+for (let i = 0; i < 100; i++)
 
-  h1 {
-    color: #fff;
-  }
+{
+  console.log(i);
+  
 }
-</style>
+</script>
+<style scoped lang='scss'></style>
