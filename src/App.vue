@@ -1,15 +1,6 @@
 <template>
-  <div>
-    <h1>svg测试</h1>
-    <svg-icon
-      name="copyright"
-      color="red"
-      width="100px"
-      height="100px"
-    ></svg-icon>
-  </div>
+  <div></div>
 </template>
-<script setup lang="ts">
-import SvgIcon from '@/components/SvgIcon/index.vue'
+<script setup lang='ts'>
 </script>
-<style scoped lang="scss"></style>
+<style scoped lang='scss'></style>
